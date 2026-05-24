@@ -1,0 +1,11 @@
+{
+  "primary_color": "emerald",
+  "secondary_color": "teal",
+  "hero_gradient": "from-emerald-900 via-emerald-800 to-teal-900",
+  "contact_gradient": "from-teal-900 via-emerald-800 to-emerald-900",
+  "font_heading": "Cormorant Garamond",
+  "font_body": "Nunito Sans",
+  "font_google_import": "Cormorant+Garamond:wght@600;700&family=Nunito+Sans:wght@400;600",
+  "brand_personality": "עדין, מעמיק, מקצועי, מעניק-דעת, מרפא",
+  "logo_emoji": "Heart"
+}
